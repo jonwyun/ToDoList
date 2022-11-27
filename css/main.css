@@ -77,6 +77,6 @@ input[type="checkbox"]:checked + span::after {
     margin-left: 10px;
 }
 
-input[type="checkbox"]:checked + #after {
+input[type="checkbox"]:checked + span {
     background-color: gray;
 }
